@@ -7,4 +7,4 @@ Realizar los siguientes pasos para llegar al resultado elegido en Kaggle:
 
 02.Bayesian Optimization: Correr el script 02_z633_lightgbm_binaria_BO_kaggle_rt. Solamente chequear su working directory y el dataset con feature engineering resultante del script anterior.
 
-03.Modelo, testeo y semillerío para Kaggle: Correr el script 03_z844_lightgbm_final_semillerio_kaggle_rt. Solamente chequear su working directory y el dataset con feature engineering resultante del scritp 1. El archivo que se debe subir a Kaggle es "exp_KA8442_4_KA8442_4_8000.csv" 
+03.Modelo, testeo y semillerío para Kaggle: Correr el script 03_z844_lightgbm_final_semillerio_kaggle_rt. Solamente chequear su working directory y el dataset con feature engineering resultante del scritp 1. El archivo que se debe subir a Kaggle es el que tiene el corte 8000 (ocho mil).
